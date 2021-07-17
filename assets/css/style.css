@@ -66,6 +66,10 @@ footer a {
   color: #024e76;
 }
 
+.page-title h2 {
+  display: inline-block;
+}
+
 section {
   padding: 60px;
 }
