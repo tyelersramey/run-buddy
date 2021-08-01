@@ -378,8 +378,9 @@ section {
 
   .hero-cta {
     text-align: center;
+  }
 
-    .section-title {
+  .section-title {
       width: 80%;
     }
     
@@ -390,7 +391,6 @@ section {
     .contact-info iframe{
       flex: 1 100%;
     }
-  }
 }
 
 /* MEDIA QUERY FOR TABLETS AND SMALLER */
