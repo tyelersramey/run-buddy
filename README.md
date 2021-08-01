@@ -1,3 +1,14 @@
-# run-buddy
-University of Utah Coding Bootcamp 
-Week 1, Module 1: HTML, CSS, and Git
+# Run Buddy
+
+## Purpose
+A website that offers fitness training services.
+
+## Built With
+* HTML
+* CSS
+
+## Website
+https://lernantino.github.io/run-buddy/
+
+## Contribution
+Made with ❤️ by Tyeler Ramey
