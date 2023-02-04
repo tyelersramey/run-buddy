@@ -9,3 +9,5 @@ A website that offers fitness training services.
 
 ## Website
 tyelersramey.github.io/run-buddy
+
+# Run Buddy Inc.
